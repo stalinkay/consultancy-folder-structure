@@ -38,9 +38,13 @@ While any filing system is better than none, some approaches work better for des
 ![](https://99designs-blog.imgix.net/blog/wp-content/uploads/2013/02/file-folders1.jpg?format=auto)
 
 - **Client Input:** This is everything I get from the client during the course of the project. Files, documents, notes… you name it.
-Business: Project quotes, estimates, schedules, proposals and everything else related to the “business” part of the project.
+
+- **Business:** Project quotes, estimates, schedules, proposals and everything else related to the “business” part of the project.
+
 - **Assets:** Photos, vectors, icons and other design elements you use to put together your designs. In other words, everything that is a part of your final layout should go here.
+
 - **Design:** The name says it all. Here’s where you keep your actual design files, the stuff you work on. Typically, it should contain nothing else but a list of files with your designs in various versions or revision stages. Remember, all files used to construct those designs, like photos or icons, should go into the Assets folder.
+
 - **Production:** All final files for delivery to the client. For print projects, this is where you place your prepress files which can be sent to the printer, like PDF’s fonts and so on. For web projects, this is where you put the actual HTML version of the site, if you do the coding too.
 
 You may have figured it out by now, but this structure roughly reflects the various stages your project is going through, and files related to those stages. So where will you find that great photo you’ve been using in Halloween poster project? Right, it’s in the Assets folder. How about a file ready for printing? Of course, in the Production folder.
@@ -74,4 +78,4 @@ This way, you always know that the final one is the one with the highest number 
 
 Just like people organize their homes in a multitude of ways, they have the same number of ways of organizing their files. The system I described above is not perfect and will not solve all of your dilemmas, but it will get you started and provide a solid framework for finding and managing your files across dozens of projects.
 
-## How do you organize your design files?
+### How do you organize your design files?
